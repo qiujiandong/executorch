@@ -76,3 +76,7 @@ xcuserdata/
 
 # Agents
 .claude/*.local.*
+
+.clangd
+compile_commands.json
+.cache
